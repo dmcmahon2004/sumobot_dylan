@@ -1,2 +1,2 @@
 # sumobot_dylan
-sumobot blueprint 
+Sumobot Blueprint 
